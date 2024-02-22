@@ -1,5 +1,5 @@
 ## :star2: 목적
-약관 조항의 유리/불리 여부를 판단하는 classification 모델 생성 및 최적화
+약관 조항의 유리/불리 여부를 판단하는 classification 모델 생성 및 최적화(.pkl파일 추출)
 
 <br/><br/>
 
