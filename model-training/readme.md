@@ -4,7 +4,7 @@
 <br/><br/>
 
 ## :star2: 사용 기술
-📌 BERT
+📌 KoBERT
 
 > KoBERT, KoELECTRA, BERT 성능 비교 후 선택
 
