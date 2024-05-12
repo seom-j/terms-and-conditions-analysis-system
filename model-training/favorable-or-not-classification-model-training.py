@@ -176,8 +176,8 @@ from transformers import BertTokenizer
 from transformers import BertForSequenceClassification
 import torch
 
-tokenizer = BertTokenizer.from_pretrained("monologg/kobert")
-model = BertForSequenceClassification.from_pretrained("monologg/kobert", num_labels=n_labels)
+tokenizer = BertTokenizer.from_pretrained("bert-base-multilingual-cased")
+model = BertForSequenceClassification.from_pretrained("bert-base-multilingual-cased", num_labels=n_labels)
 
 model.resize_token_embeddings(len(tokenizer))
 
