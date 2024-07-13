@@ -18,11 +18,12 @@
 > 
 > 프로젝트 발표
 
-📌 프론트엔드
+📌 웹 환경 구축
 
-> 웹사이트 UI 구현
+> 웹사이트 UI 구현 및 서버 연동
 > 
-> ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+> ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+
 
 📌 인공지능
 
